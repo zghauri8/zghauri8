@@ -11,6 +11,7 @@
 🎯 **Full Stack Developer** specializing in **MERN Stack** and **AI Integration**  
 🎓 **Bachelor of Information Technology** from The Islamia University of Bahawalpur  
 📸 **I Post Trash Here:** [Instagram](https://instagram.com/zohaibghaurii)
+
 🌟 **AI Enthusiast** working with OpenAI & Gemini APIs & others as well
 📍 **Based in Pakistan** 🇵🇰  
 
