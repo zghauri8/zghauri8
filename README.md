@@ -1,7 +1,7 @@
 # Hi there, I'm Zohaib Ghauri! 👋
 
 <div align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/zghauri8?v=4" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
+  <img width="200" height="200" src="https://github.com/zghauri8.png" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Integration+Expert;React+%26+Next.js+Developer&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22">
 </div>
@@ -118,7 +118,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zghauri8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zghauri8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zghauri8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -127,11 +127,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zghauri8&theme=tokyonight&cache_seconds=86400" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zghauri8&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zghauri8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -160,7 +156,7 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-ghauri.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohaib-ghauri)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zohaibghaurii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.comzohaibghaurii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibg488@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zghauri8)
 
