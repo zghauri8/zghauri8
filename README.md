@@ -1,8 +1,6 @@
 # Hi there, I'm Zohaib Ghauri! 👋
 
 <div align="center">
-  <img width="200" height="200" src="https://github.com/zghauri8.png" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Integration+Expert;React+%26+Next.js+Developer&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22">
 </div>
 
